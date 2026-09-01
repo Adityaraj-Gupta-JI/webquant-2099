@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+
+title: "WEBQUANT 2099"
+
+message: "If you use WEBQUANT 2099 in your research, educational work, or derivative project, please cite this repository."
+
+type: software
+
+authors:
+  - family-names: "MEMBER_1_LAST_NAME"
+    given-names: "MEMBER_1_FIRST_NAME"
+    affiliation: "VIT Chennai"
+  - family-names: "MEMBER_2_LAST_NAME"
+    given-names: "MEMBER_2_FIRST_NAME"
+    affiliation: "VIT Chennai"
+  - family-names: "MEMBER_3_LAST_NAME"
+    given-names: "MEMBER_3_FIRST_NAME"
+    affiliation: "VIT Chennai"
+  - family-names: "MEMBER_4_LAST_NAME"
+    given-names: "MEMBER_4_FIRST_NAME"
+    affiliation: "VIT Chennai"
+
+repository-code: "https://github.com/YOUR_USERNAME/webquant-2099"
+
+abstract: >
+  WEBQUANT 2099 is a multi-agent financial intelligence system
+  combining quantitative signals, retrieval-augmented generation,
+  financial evidence retrieval, investor context, risk analysis,
+  and explainable visual reasoning.
+
+keywords:
+  - quantitative finance
+  - artificial intelligence
+  - multi-agent systems
+  - retrieval augmented generation
+  - RAG
+  - financial intelligence
+  - risk analysis
+  - explainable AI
+  - semantic search
+  - investor profiling
+
+license: "LicenseRef-All-Rights-Reserved"
+
+version: "0.1.0"
+
+date-released: "2026-09-01"
