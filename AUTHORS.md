@@ -4,10 +4,10 @@ WEBQUANT 2099 was developed by:
 
 | Name | Responsibility | GitHub |
 |---|---|---|
-| Member 1 | AI / Multi-Agent Systems | @username |
-| Member 2 | Frontend / UI/UX | @username |
-| Member 3 | Quantitative Finance / Data | @username |
-| Member 4 | Backend / RAG / Infrastructure | @username |
+| Chetan Chaudhary | AI / Multi-Agent Systems | @username |
+| Om Upadhyay | Frontend / UI/UX | @username |
+| Divyanshu Singh | Quantitative Finance / Data | @username |
+| Adityaraj Gupta | Backend / RAG / Infrastructure | @username |
 
 ## Institution
 

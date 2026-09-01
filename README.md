@@ -1053,19 +1053,19 @@ WEBQUANT 2099 is designed around the core challenge of transforming fragmented f
 
 | Member          | Role                           |
 | --------------- | ------------------------------ |
-| **[Member 01]** | AI / Multi-Agent Architecture  |
-| **[Member 02]** | Frontend / UI & UX             |
-| **[Member 03]** | Quantitative Analysis / Data   |
-| **[Member 04]** | Backend / RAG / Infrastructure |
+| **[Chetan Chaudhary]** | AI / Multi-Agent Architecture  |
+| **Om Upadhyay** | Frontend / UI & UX             |
+| **Divyanshu Singh** | Quantitative Analysis / Data   |
+| **Adityaraj Gupta** | Backend / RAG / Infrastructure |
 
 </div>
 
 ### Team Members
 
-* **[FULL NAME 1]** — [GitHub](https://github.com/USERNAME)
-* **[FULL NAME 2]** — [GitHub](https://github.com/USERNAME)
-* **[FULL NAME 3]** — [GitHub](https://github.com/USERNAME)
-* **[FULL NAME 4]** — [GitHub](https://github.com/USERNAME)
+* **Chetan Chaudhary** — [GitHub](https://github.com/Chetanchaudhary08)
+* **Om Upadhyay** — [GitHub](2raised22is743)
+* **Divyanshu Singh** — [GitHub](https://github.com/Baehtar)
+* **Adityaraj Gupta** — [GitHub](https://github.com/Adityaraj-Gupta-JI/)
 
 ---
 
